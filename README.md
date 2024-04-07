@@ -1,1 +1,1 @@
-# WinNginxUI
+# nginxUI-for-windows
